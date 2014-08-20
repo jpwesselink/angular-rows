@@ -1,0 +1,32 @@
+{
+	"name": "angular-rows",
+	"version": "1.0.0",
+	"authors": [
+		"JP Wesselink (jpwesselink@gmail.com)"
+	],
+	"description": "AngularJS directive for splitting arrays into rows",
+	"keywords": [
+		"angular",
+		"AngularJS",
+		"directive",
+		"rows",
+		"arrays",
+		"split"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"angular":"~1.2.0",
+		"angular-animate":"~1.2.0",
+		"angular-sanitize":"~1.2.0",
+		"angular-touch":"~1.2.0"
+	},
+	"devDependencies": {
+	}
+}
